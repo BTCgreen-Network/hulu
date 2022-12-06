@@ -1,4 +1,4 @@
-module github.com/BTCgreen-Network/hulu
+module github.com/btcgreen-network/hulu
 
 go 1.16
 

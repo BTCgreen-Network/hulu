@@ -18,7 +18,7 @@ Visit [https://hulu.com](https://hulu.com).  Right click and then click Inspect.
 ## Demonstration
 Say we want to download an episode of M\*A\*S\*H.
 
-    $ go install github.com/BTCgreen-Network/hulu # The rest of these commands assume $GOPATH/bin is in your PATH.  If it is not, just cd to $GOPATH/bin and run "./hulu" instead of "hulu"
+    $ go install github.com/btcgreen-network/hulu # The rest of these commands assume $GOPATH/bin is in your PATH.  If it is not, just cd to $GOPATH/bin and run "./hulu" instead of "hulu"
     $ HULU_SESSION="abc" hulu search -query="m*a*s*h"
     Title                           ID
     M*A*S*H                         ae94231d-0f04-482a-b9ee-9911e339e3ed
